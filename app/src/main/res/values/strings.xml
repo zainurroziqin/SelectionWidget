@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SelectionWidget</string>
+
+    <string-array name="country">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+        <item>Singapura</item>
+        <item>Vietnam</item>
+        <item>China</item>
+        <item>Jepang</item>
+    </string-array>
+</resources>

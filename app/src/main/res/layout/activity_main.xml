@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/list_view"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="10dp"
+        android:text="List View"
+        android:textSize="16sp"
+        />
+    <Button
+        android:id="@+id/spinner"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:text="Spinner"
+        android:textSize="16sp"
+        />
+    <Button
+        android:id="@+id/act"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:text="Auto Complete Text"
+        android:textSize="16sp"
+        />
+
+</LinearLayout>
