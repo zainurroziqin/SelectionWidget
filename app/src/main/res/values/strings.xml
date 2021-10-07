@@ -10,4 +10,6 @@
         <item>China</item>
         <item>Jepang</item>
     </string-array>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="detail">Detail</string>
 </resources>
